@@ -7,7 +7,7 @@
 Пошаговый алгоритм (делается только 1 раз, не пугайтесь):
 1. Устанавливаем Python 3.9+ с официального сайта
 2. Устанавливаем PyCharm
-3. Скачиваем и распаковываем архив с fb-octo-auto-check в папку PycharmProjects
+3. Скачиваем и распаковываем архив с fb-octo-auto-policy в папку PycharmProjects
 4. Должен получится примерно такой путь: /Users/mac/PycharmProjects/fb-octo-auto-policy/
 5. Создаем внутри папки /fb-octo-auto-policy/ новую папку с названием 1
 6. Вбиваем в гугл "chromedriver chrome version 96", скачиваем chromedriver, и загружаем его в папку 1
